@@ -2,7 +2,9 @@
 
 Ever felt that moment in your life where you needed a little bit of color to it? A little bit of passion? Well.. Your life will still be miserable, but at least you can color a text or a box. Not just in one color, but in MANY COLORS!
 
-![](https://thumbs.gfycat.com/GraveBigEasternnewt-size_restricted.gif)
+<p align="center">
+  <img src="https://thumbs.gfycat.com/GraveBigEasternnewt-size_restricted.gif" />
+</p>
 
 Rainbowfier is a custom React hook meant to give an infinite rainbowish effect to whatever object you set the property to.
 
