@@ -1,0 +1,1 @@
+export {default as useRainbowfier} from './hooks/useRainbowfier';
