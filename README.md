@@ -21,7 +21,7 @@ Rainbowfier is a custom React hook meant to give an infinite rainbowish effect t
 First, the install
 
 ```
-npm install rainbowfier
+npm i rainbowfier-library
 ```
 
 All you need to do is to initiate a ref object and pass it in the refObject parameter as in the example folder. Make sure that the ref object is also applied to the respective element as well.
