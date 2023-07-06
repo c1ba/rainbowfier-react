@@ -18,6 +18,12 @@ Rainbowfier is a custom React hook meant to give an infinite rainbowish effect t
 
 ### How to use
 
+First, the install
+
+```
+npm install rainbowfier
+```
+
 All you need to do is to initiate a ref object and pass it in the refObject parameter as in the example folder. Make sure that the ref object is also applied to the respective element as well.
 
 P.S: In case you apply it on a text element (h1, h2, h3, h4, h5, h6, a, p), it should change the color of the text. Otherwise, it should change the background color.
